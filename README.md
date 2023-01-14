@@ -17,4 +17,4 @@ The file named assembly.py is the language interpreter. It only has 9 instructio
 * **if** - Conditional statement
 * **jmp** - Jumps to the selected instruction
 
-It may be of interest to you that I refer to variables as boxes here. That's why it's *obx* and not ovr as you might expect. Additional information is the fact that *boxes* can only store numbers. Numbers range from -999999 to 999999.
+It may be of interest to you that I refer to variables as boxes here. That's why it's *obx* and not ovr as you might expect. Additional information is the fact that **_boxes_** can only store numbers. Numbers range from -999999 to 999999.
